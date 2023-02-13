@@ -2688,7 +2688,7 @@ var DEFAULT_THEME = {
     text: ""
   },
   feedback: {
-    content: "Question? Give us feedback \u2192",
+    content: "Questions/comments? Send me an email! \u2192",
     labels: "feedback",
     useLink() {
       const config = useConfig();
