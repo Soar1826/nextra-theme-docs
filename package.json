@@ -1,8 +1,8 @@
 {
-  "name": "nextra-custom",
+  "name": "nextra-theme-docs",
   "version": "0.0.1",
   "description": "A Nextra theme for documentation sites.",
-  "repository": "https://github.com/Soar1826/nextra-custom",
+  "repository": "https://github.com/Soar1826/nextra-theme-docs",
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "files": [
